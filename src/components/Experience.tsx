@@ -13,8 +13,6 @@ const Experience = () => {
     {
       title: 'Full Stack Developer',
       company: 'Digital Solutions Ltd.',
-      location: 'New York, NY',
-      period: '2020 - 2022',
       description: [
         'Developed and maintained multiple client-facing web applications',
         'Collaborated with design team to implement pixel-perfect UI/UX',
@@ -26,8 +24,6 @@ const Experience = () => {
     {
       title: 'Frontend Developer',
       company: 'StartupXYZ',
-      location: 'Austin, TX',
-      period: '2019 - 2020',
       description: [
         'Built responsive web applications using modern JavaScript frameworks',
         'Implemented real-time features using WebSocket connections',
@@ -39,8 +35,6 @@ const Experience = () => {
     {
       title: 'Junior Web Developer',
       company: 'WebCraft Agency',
-      location: 'Remote',
-      period: '2018 - 2019',
       description: [
         'Developed custom WordPress themes and plugins',
         'Created responsive websites for small to medium businesses',
