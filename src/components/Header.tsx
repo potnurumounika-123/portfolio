@@ -35,7 +35,7 @@ const Header = () => {
 
   const downloadCV = () => {
     const link = document.createElement('a');
-    link.href = 'public/Mounika_Potnuru_Resume.pdf';
+    link.href = 'Mounika_Potnuru_Resume.pdf';
     link.download = 'Mounika_Potnuru_Resume.pdf';
     document.body.appendChild(link);
     link.click();
