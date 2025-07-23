@@ -13,11 +13,9 @@ const Skills = () => {
       title: 'Frontend',
       skills: [
         { name: 'React'},
-        { name: 'TypeScript'},
         { name: 'JavaScript'},
         { name: 'HTML5'},
         { name: 'CSS3'},
-        { name: 'Next.js' },
       ],
     },
     {
@@ -34,7 +32,6 @@ const Skills = () => {
       skills: [
         { name: 'MongoDB'},
         { name: 'MySQL'},
-        { name: 'Redis'},
         { name: 'Firebase'},
       ],
     },
@@ -45,6 +42,7 @@ const Skills = () => {
         { name: 'Wireshark'},
         { name: 'KaliLinux'},
         { name: 'Burpsuite'},
+        { name: 'Metasploi'},
       ],
     },
   ];
