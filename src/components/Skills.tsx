@@ -42,7 +42,7 @@ const Skills = () => {
         { name: 'Wireshark'},
         { name: 'KaliLinux'},
         { name: 'Burpsuite'},
-        { name: 'Metasploi'},
+        { name: 'Metasploit'},
       ],
     },
   ];
