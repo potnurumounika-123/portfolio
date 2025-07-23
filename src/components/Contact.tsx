@@ -286,7 +286,7 @@ const Contact = () => {
                 >
                   <div className="w-80 h-96 rounded-2xl border border-purple-500/30 overflow-hidden">
                     <img
-                      src="public/mounika.jpg"
+                      src="/mounika.jpg"
                       alt="Mounika Potnuru"
                       className="w-full h-full object-cover"
                     />
