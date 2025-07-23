@@ -11,19 +11,6 @@ const Experience = () => {
 
   const experiences = [
     {
-      title: 'Senior Full Stack Developer',
-      company: 'Tech Innovations Inc.',
-      location: 'San Francisco, CA',
-      period: '2022 - Present',
-      description: [
-        'Led development of scalable web applications serving 100K+ users',
-        'Architected microservices infrastructure reducing response time by 40%',
-        'Mentored junior developers and established coding best practices',
-        'Implemented CI/CD pipelines improving deployment efficiency by 60%',
-      ],
-      technologies: ['React', 'Node.js', 'PostgreSQL', 'AWS', 'Docker'],
-    },
-    {
       title: 'Full Stack Developer',
       company: 'Digital Solutions Ltd.',
       location: 'New York, NY',
