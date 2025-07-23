@@ -14,14 +14,21 @@ const Certifications = () => {
       title: 'CERTIFIED ETHICAL HACKER V13',
       issuer: 'EC-COUNCIL ',
       date: '2025',
-      description: 'Demonstrated expertise in designing distributed systems on AWS platform',
+      description: 'Demonstrated advanced skills in identifying vulnerabilities, performing penetration testing, and implementing security measures to protect systems against cyber threats.',
       skills: ['EthicalHacking', 'Offensive Security'],
     },
     {
       title: 'CORE JAVA PROGRAMMING',
       issuer: 'FAANGTECH LAB',
       date: '2025',
-      description: 'Developed realtime java webapplications',
+      description: 'Certified in core Java programming, with strong knowledge of object-oriented concepts, data structures, and application development.',
+      skills: ['Java', 'web development', 'Frontend', 'Backend'],
+    },
+    {
+      title: 'FULL STACK DEVELOPER',
+      issuer: 'FUTURE INTERNS',
+      date: '2025',
+      description: 'Skilled in building complete web applications with expertise in both front-end and back-end technologies, ensuring end-to-end project delivery.',
       skills: ['Java', 'web development', 'Frontend', 'Backend'],
     },
   ];
