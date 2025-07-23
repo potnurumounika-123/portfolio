@@ -11,8 +11,8 @@ const Experience = () => {
 
   const experiences = [
     {
-      title: 'Full Stack Developer',
-      company: 'Digital Solutions Ltd.',
+      title: 'Java Core Developer',
+      company: 'FaangTech Lab',
       description: [
         'Developed and maintained multiple client-facing web applications',
         'Collaborated with design team to implement pixel-perfect UI/UX',
@@ -22,8 +22,8 @@ const Experience = () => {
       technologies: ['Vue.js', 'Express.js', 'MongoDB', 'Stripe API'],
     },
     {
-      title: 'Frontend Developer',
-      company: 'StartupXYZ',
+      title: 'Full Stack Developer',
+      company: 'Future Interns',
       description: [
         'Built responsive web applications using modern JavaScript frameworks',
         'Implemented real-time features using WebSocket connections',
@@ -31,17 +31,6 @@ const Experience = () => {
         'Participated in agile development processes and code reviews',
       ],
       technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Socket.io'],
-    },
-    {
-      title: 'Junior Web Developer',
-      company: 'WebCraft Agency',
-      description: [
-        'Developed custom WordPress themes and plugins',
-        'Created responsive websites for small to medium businesses',
-        'Learned modern web development practices and tools',
-        'Contributed to open-source projects and community initiatives',
-      ],
-      technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'WordPress'],
     },
   ];
 
