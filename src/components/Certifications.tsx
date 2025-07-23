@@ -16,7 +16,13 @@ const Certifications = () => {
       date: '2025',
       description: 'Demonstrated expertise in designing distributed systems on AWS platform',
       skills: ['EthicalHacking', 'Offensive Security'],
-      link: 'https://aws.amazon.com/certification/',
+    },
+    {
+      title: 'CORE JAVA PROGRAMMING',
+      issuer: 'FAANGTECH LAB',
+      date: '2025',
+      description: 'Developed realtime java webapplications',
+      skills: ['Java', 'web development', 'Frontend', 'Backend'],
     },
   ];
 
